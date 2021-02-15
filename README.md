@@ -69,17 +69,17 @@
     - 百分位數：numpy.percentile(), numpy.nanpercentile()
     - 分位數：numpy.quantile(), numpy.nanquantile()
 - 平均數與變異數
-    - 平均值：mean(), nanmean()
-    - 平均值：average()
-    - 計算中位數：median(), nanmedian()
-    - 計算標準差：std(), nanstd()
-    - 計算變異數：var(), nanvar()
+    - 平均值：numpy.mean(), numpy.nanmean()
+    - 平均值：numpy.average()
+    - 計算中位數：numpy.median(), numpy.nanmedian()
+    - 計算標準差：numpy.std(), numpy.nanstd()
+    - 計算變異數：numpy.var(), numpy.nanvar()
 - 相關性
-    - 相關係數：corrcoef()
+    - 相關係數：numpy.corrcoef()
     - 互相關 (Cross-correlation)
-    - 共變異數：cov()
+    - 共變異數：numpy.cov()
 - Histogram
-- digitize()
+- numpy.digitize()
 
 ## Day 6 NumPy I/O
 - numpy.save()、numpy.savez()、numpy.load()
