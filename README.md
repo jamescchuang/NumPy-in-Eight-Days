@@ -76,7 +76,7 @@
     - 計算變異數：numpy.var(), numpy.nanvar()
 - 相關性
     - 相關係數：numpy.corrcoef()
-    - 互相關 (Cross-correlation)
+    - 互相關 (Cross-correlation)：numpy.correlate()
     - 共變異數：numpy.cov()
 - Histogram
 - numpy.digitize()
