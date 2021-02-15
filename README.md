@@ -1,4 +1,4 @@
-# NumPy in 8 Days 八天學會NumPy
+# Learn NumPy in 8 Days - 八天學會NumPy
  
 ## Day 1 NumPy 陣列的基本操作
 - 安裝與載入 NumPy
