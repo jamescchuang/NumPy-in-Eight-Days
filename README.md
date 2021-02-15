@@ -83,10 +83,8 @@
 
 ## Day 6 NumPy I/O
 - numpy.save()、numpy.savez()、numpy.load()
-- savetxt() 與 loadtxt()
-    - numpy.savetxt()
-    - numpy.loadtxt()
-- genfromtxt()
+- numpy.savetxt() 與 numpy.loadtxt()
+- numpy.genfromtxt()
     - 將文字檔內容讀取並正確分隔Column
     - 選擇要讀取的 Column
     - 缺值處理
