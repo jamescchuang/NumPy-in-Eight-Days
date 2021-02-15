@@ -66,8 +66,8 @@
         - numpy.maximum(), numpy.minimum()
         - numpy.fmax(), numpy.fmin()
         - numpy.nanmax(), numpy.nanmin()
-    - 百分位數：percentile(), nanpercentile()
-    - 分位數：quantile(), nanquantile()
+    - 百分位數：numpy.percentile(), numpy.nanpercentile()
+    - 分位數：numpy.quantile(), numpy.nanquantile()
 - 平均數與變異數
     - 平均值：mean(), nanmean()
     - 平均值：average()
