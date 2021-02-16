@@ -1,5 +1,9 @@
 # Learn NumPy in 8 Days - 八天學會NumPy
- 
+
+![](https://i0.wp.com/user-images.githubusercontent.com/2695116/51644291-87d9ea80-1f24-11e9-8182-2c261d0eb17a.png?resize=1306%2C1082&ssl=1)
+
+[https://www.ithome.com.tw/news/128476](https://www.ithome.com.tw/news/128476)
+
 ## Day 1 NumPy 陣列的基本操作
 - 安裝與載入 NumPy
 - 建立 NumPy array (陣列)
