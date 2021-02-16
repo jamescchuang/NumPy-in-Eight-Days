@@ -1,8 +1,12 @@
-<img src="https://numpy.org/images/logos/numpy.svg" width=200 class="center">
+<img src="https://numpy.org/images/logos/numpy.svg" width=200>
 
 # Learn NumPy in 8 Days - 八天學會NumPy
 
-NumPy是GitHub機器學習專案中,被import最多的套件. 每天一小時, 8天學會主要的NumPy使用.
+## 簡介
+
+NumPy是Python科學運算的基礎套件(The fundamental package for scientific computing with Python)
+
+NumPy也是GitHub機器學習專案中,被import最多的套件. 每天一小時, 8天學會主要的NumPy使用.
 
 ![](https://i0.wp.com/user-images.githubusercontent.com/2695116/51644291-87d9ea80-1f24-11e9-8182-2c261d0eb17a.png?resize=1306%2C1082&ssl=1)
 
@@ -12,7 +16,7 @@ NumPy是GitHub機器學習專案中,被import最多的套件. 每天一小時, 8
 
 [GitHub: Numpy和Scipy是機器學習專案中最受歡迎的函式庫](https://www.ithome.com.tw/news/128476)
 
-## 先決條件
+## 先決條件(Prerequisites)
 
 安裝Python/pip, 或是Anaconda/Miniconda
 
