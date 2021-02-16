@@ -10,7 +10,7 @@ NumPy是GitHub機器學習專案中,被import最多的套件. 每天一小時, 8
 
 [GitHub: Numpy和Scipy是機器學習專案中最受歡迎的函式庫](https://www.ithome.com.tw/news/128476)
 
-## Day 1 NumPy 陣列的基本操作
+## Day 1 NumPy 陣列的基本操作 [連結](https://github.com/jamescchuang/NumPy-in-Eight-Days/blob/main/Day1_NumPy_Basics.ipynb)
 - 安裝與載入 NumPy
 - 建立 NumPy array (陣列)
     - numpy.array() 函式
@@ -24,7 +24,7 @@ NumPy是GitHub機器學習專案中,被import最多的套件. 每天一小時, 8
 - NumPy陣列的索引和切片 (Slicing)
 - NumPy 陣列的常用屬性
 
-## Day 2 NumPy 陣列進階操作
+## Day 2 NumPy 陣列進階操作 [連結]()
 - NumPy 陣列重塑
     - flatten() 與 ravel()
     - reshape()
@@ -45,7 +45,7 @@ NumPy是GitHub機器學習專案中,被import最多的套件. 每天一小時, 8
     - nonzero
     - 排序：sort() 與 argsort()
 
-## Day 3 NumPy 陣列運算及數學 Universal Functions (ufunc)
+## Day 3 NumPy 陣列運算及數學 Universal Functions (ufunc) [連結]()
 - 四則運算
 - sum()
 - 次方 numpy.power()
@@ -55,7 +55,7 @@ NumPy是GitHub機器學習專案中,被import最多的套件. 每天一小時, 8
 - 取近似值
 - 取絕對值：numpy.abs(), numpy.absolute(), numpy.fabs()
 
-## Day 4 NumPy 陣列邏輯函式 (Logic Functions)
+## Day 4 NumPy 陣列邏輯函式 (Logic Functions) [連結]()
 - 陣列內容
     - numpy.isnan()
     - numpy.isfinite()
@@ -70,7 +70,7 @@ NumPy是GitHub機器學習專案中,被import最多的套件. 每天一小時, 8
 - 邏輯操作
 - numpy.all()、numpy.any()
 
-## Day 5 NumPy 統計函式 Universal Functions (ufunc)
+## Day 5 NumPy 統計函式 Universal Functions (ufunc) [連結]()
 - 順序統計量 (Order Statistics)
     - 最大值和最小值
         - numpy.maximum(), numpy.minimum()
@@ -91,7 +91,7 @@ NumPy是GitHub機器學習專案中,被import最多的套件. 每天一小時, 8
 - Histogram
 - numpy.digitize()
 
-## Day 6 NumPy I/O
+## Day 6 NumPy I/O [連結]()
 - numpy.save()、numpy.savez()、numpy.load()
 - numpy.savetxt() 與 numpy.loadtxt()
 - numpy.genfromtxt()
@@ -100,7 +100,7 @@ NumPy是GitHub機器學習專案中,被import最多的套件. 每天一小時, 8
     - 缺值處理
     - 資料轉換
 
-## Day 7 NumPy 的矩陣函式與線性代數應用
+## Day 7 NumPy 的矩陣函式與線性代數應用 [連結]()
 - 矩陣乘積
     - 點積 (dot product)：numpy.dot(a, b)
     - 內積：numpy.inner()
@@ -125,7 +125,7 @@ NumPy是GitHub機器學習專案中,被import最多的套件. 每天一小時, 8
     - QR分解：numpy.linalg.qr()
     - SVD分解：numpy.linalg.svd()
 
-## Day 8 NumPy 結構化陣列 (Structured Arrays)
+## Day 8 NumPy 結構化陣列 (Structured Arrays) [連結]()
 - 資料型別 (dtype)
 - 結構化陣列 (Structured Arrays)
 - RecordArray：numpy.recarray()
