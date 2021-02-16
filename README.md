@@ -1,4 +1,4 @@
-<img src="https://numpy.org/images/logos/numpy.svg" width=300 align=middle>
+<img src="https://numpy.org/images/logos/numpy.svg" width=200 align="middle">
 
 # Learn NumPy in 8 Days - 八天學會NumPy
 
