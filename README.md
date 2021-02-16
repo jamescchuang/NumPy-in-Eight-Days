@@ -1,8 +1,12 @@
 # Learn NumPy in 8 Days - 八天學會NumPy
 
+NumPy是GitHub機器學習專案中,被import最多的套件. 每天一小時, 8天學會主要的NumPy使用.
+
 ![](https://i0.wp.com/user-images.githubusercontent.com/2695116/51644291-87d9ea80-1f24-11e9-8182-2c261d0eb17a.png?resize=1306%2C1082&ssl=1)
 
-[https://www.ithome.com.tw/news/128476](https://www.ithome.com.tw/news/128476)
+資料來源:
+[The State of the Octoverse: machine learning](https://github.blog/2019-01-24-the-state-of-the-octoverse-machine-learning/)
+[GitHub: Numpy和Scipy是機器學習專案中最受歡迎的函式庫](https://www.ithome.com.tw/news/128476)
 
 ## Day 1 NumPy 陣列的基本操作
 - 安裝與載入 NumPy
