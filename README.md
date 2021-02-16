@@ -10,7 +10,7 @@ NumPy是GitHub機器學習專案中,被import最多的套件. 每天一小時, 8
 
 [GitHub: Numpy和Scipy是機器學習專案中最受歡迎的函式庫](https://www.ithome.com.tw/news/128476)
 
-## Day 1 NumPy 陣列的基本操作 [連結](https://github.com/jamescchuang/NumPy-in-Eight-Days/blob/main/Day1_NumPy_Basics.ipynb)
+## Day 1 NumPy 陣列的基本操作 [[連結]](https://github.com/jamescchuang/NumPy-in-Eight-Days/blob/main/Day1_NumPy_Basics.ipynb)
 - 安裝與載入 NumPy
 - 建立 NumPy array (陣列)
     - numpy.array() 函式
